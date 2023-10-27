@@ -1,5 +1,6 @@
 import Image from 'next/image'
-
+// hello world
+// hello git hub
 export default function Home() {
   return (
     <main className="bg-gray-900 flex min-h-screen flex-col items-center justify-between p-24">
